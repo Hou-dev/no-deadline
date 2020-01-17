@@ -1,2 +1,2 @@
 # no-deadline
-Operating systems assignment using no deadline algorithm
+Operating systems assignment for a hotel reservation using no deadline priority. 
